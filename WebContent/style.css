@@ -4,6 +4,7 @@
 }
 
 body {
+	width:device-width;
 	font-size: 62.5%;
 	font-family: Helvetica, sans-serif;
 }
@@ -11,6 +12,7 @@ body {
 p {
 	font-size: 1.3em;
 	margin-bottom: 15px;
+	font-family:arial;
 }
 
 #page-wrap {
